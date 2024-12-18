@@ -1,0 +1,4 @@
+Main.c is a webcrawler implementation code and it requires a linux environment to run.
+On a linux terminal create a directory and c file using this code.
+Compile and run the code to see how the Crawler works.
+Disclaimer:- This code will not run directly in vs code or any other environment without installing appropriate extensions.
